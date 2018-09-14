@@ -10,7 +10,7 @@
     "name": "meeral"
   },
   "dependencies": {
-    "debug": "^2.2.0",
+    "debug": "^2.6.9",
     "express": "^4.14.0",
     "pug": "^2.0.0-rc.3"
   },
